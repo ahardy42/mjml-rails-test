@@ -1,0 +1,23 @@
+<mjml>
+  <mj-head>
+    <mj-font name="Work Sans" href="https://fonts.googleapis.com/css2?family=Work+Sans&display=swap" />
+    <mj-attributes>
+      <mj-column padding='0px' border-radius='4px' />
+      <mj-text align="center" color="#fff" font-weight='bold' font-family='Work Sans, Helvetica Neue, Helvetica, Arial, sans-serif' padding='0px' />
+      <mj-section background-color="#242933" padding='12px 24px' />
+      <mj-image padding='0px' />
+      <mj-button background-color='#10ABFF' font-weight='bold' font-family='Work Sans, Helvetica Neue, Helvetica, Arial, sans-serif' padding='24px 0'/>
+      <mj-divider padding='0' />
+    </mj-attributes>
+    <mj-style>
+      @media screen and (min-width: 480px) {
+        .align div {
+          text-align: left!important;
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <%= yield %>
+  </mj-body>
+</mjml>

@@ -1,0 +1,207 @@
+<mj-section>
+  <mj-column>
+    <mj-image src="https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/tezlab_logo.png" width="133px"></mj-image>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column>
+    <mj-text font-size='24px' line-height='32px'> Weekly Report </mj-text>
+    <mj-text font-size='16px' line-height='24px' padding='24px'> This week had you hitting the road a lot more than last week with a 24% rise in miles driven. We can’t blame you it is a fun car to drive. </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section padding-bottom='12px'>
+  <mj-column width='48%' background-color='#10ABFF' padding='24px'>
+    <mj-image width='24px' src='https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/icon_drive.png' padding-bottom='8px' />
+    <mj-text font-size='28px' line-height='33px'> 321.6mi </mj-text>
+    <mj-text font-size='13px' line-height='16px' padding-bottom='8px'> Miles Driven </mj-text>
+    <mj-text font-size='16px' line-height='24px'> +24% (77.1mi) </mj-text>
+    <mj-text font-size='13px' line-height='16px'> Avg. trip 5.74mi </mj-text>
+  </mj-column>
+  <mj-column width='4%' padding='4%' />
+  <mj-column width='48%' background-color='#4BC674' padding='24px'>
+    <mj-image width='24px' src='https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/icon_charge.png' padding-bottom='8px' />
+    <mj-text font-size='28px' line-height='33px'> 32.6kwh </mj-text>
+    <mj-text font-size='13px' line-height='16px' padding-bottom='8px'> Charge Added </mj-text>
+    <mj-text font-size='16px' line-height='24px'> -3% (-0.978kwh) </mj-text>
+    <mj-text font-size='13px' line-height='16px'> 856mi Range Added </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section padding-bottom='24px'>
+  <mj-column width='48%' background-color='#363C47' padding='24px'>
+    <mj-image width='24px' src='https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/icon_leaf.png' padding-bottom='8px' />
+    <mj-text font-size='28px' line-height='33px'> 86% </mj-text>
+    <mj-text font-size='13px' line-height='16px' padding-bottom='8px'> Avg. Trip Efficiency </mj-text>
+    <mj-text font-size='16px' line-height='24px'> +12% </mj-text>
+    <mj-text font-size='13px' line-height='16px' color='#9A9DA3'> Avg. over 56 Trips </mj-text>
+  </mj-column>
+  <mj-column width='4%' padding='4%' />
+  <mj-column width='48%' background-color='#363C47' padding='24px'>
+    <mj-image width='24px' src='https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/icon_powerplant.png' padding-bottom='8px' />
+    <mj-text font-size='28px' line-height='33px'> 46kg CO2 </mj-text>
+    <mj-text font-size='13px' line-height='16px' padding-bottom='8px'> Carbon Created </mj-text>
+    <mj-text font-size='16px' line-height='24px'> -8% (3.68kg CO2) </mj-text>
+    <mj-text font-size='13px' line-height='16px' color='#9A9DA3'> 14 Charging Sessions </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section padding='0px' text-align='center'>
+  <mj-column width='8.7%'></mj-column>
+  <mj-column width='4%'>
+    <mj-spacer height='6px' />
+    <mj-image width='24px' src='https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/icon_climate.png' />
+  </mj-column>
+  <mj-column width='25%'>
+    <mj-text css-class='align' padding-left='4px' color='#9A9DA3' font-size='11px' line-height='13px'>Climate Control</mj-text>
+    <mj-text css-class='align' padding-left='4px' font-size='16px' line-height='24px'>40m/day</mj-text>
+  </mj-column>
+  <mj-column width='4%'>
+    <mj-spacer height='6px' />
+    <mj-image width='24px' src='https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/icon_sentry.png' />
+  </mj-column>
+  <mj-column width='25%'>
+    <mj-text css-class='align' padding-left='4px' color='#9A9DA3' font-size='11px' line-height='13px'>Sentry</mj-text>
+    <mj-text css-class='align' padding-left='4px' font-size='16px' line-height='24px'>10m/day</mj-text>
+  </mj-column>
+  <mj-column width='4%'>
+    <mj-spacer height='6px' />
+    <mj-image width='24px' src='https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/icon_temperature.png' />
+  </mj-column>
+  <mj-column width='25%'>
+    <mj-text css-class='align' padding-left='4px' color='#9A9DA3' font-size='11px' line-height='13px'>Temperature</mj-text>
+    <mj-text css-class='align' padding-left='4px' font-size='16px' line-height='24px'>76° F Avg</mj-text>
+  </mj-column>
+  <mj-column width='8.7%'></mj-column>
+</mj-section>
+<mj-section>
+  <mj-column>
+    <mj-button>Open TezLab</mj-button>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column>
+    <mj-divider border-width='1px' border-color='#363C47' />
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column>
+    <mj-text font-size='24px' line-height='32px'> Most vs Least Efficient Trips </mj-text>
+    <mj-text font-size='16px' line-height='24px' padding='24px'> Looking at this weeks trips and finding the most efficent and least efficient for any trips over 1mi in length </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column width="48%" background-color='#363C47'>
+    <mj-spacer height='132px' />
+    <mj-text font-size='13px' line-height='16px' padding-top='16px'>
+      Brooklyn NY to Sleepy Hollow, NY
+    </mj-text>
+    <mj-text font-size='28px' line-height='33px' padding-top='8px' padding-bottom='16px' color='#10ABFF'>
+      86% Eff.
+    </mj-text>
+  </mj-column>
+  <mj-column width='4%' padding='4%' />
+  <mj-column width="48%" background-color='#363C47'>
+    <mj-spacer height='132px' />
+    <mj-text font-size='13px' line-height='16px' padding-top='16px'>
+      Norwalk, CT to Bear Mountain, NY
+    </mj-text>
+    <mj-text font-size='28px' line-height='33px' padding-top='8px' padding-bottom='16px' color='#FF5C5C'>
+      47% Eff.
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column>
+    <mj-button>View My Trips</mj-button>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column>
+    <mj-divider border-width='1px' border-color='#363C47' />
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column>
+    <mj-text font-size='24px' line-height='32px'> Sustainability Report </mj-text>
+    <mj-text font-size='16px' line-height='24px' padding='0px'> For this week you are 4 Trees short of being carbon neutral. </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section padding='0px 28.5%'>
+  <mj-column width="10%">
+    <mj-image height='30.5px' src="https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/icon_trees_sm.png" alt="trees" />
+  </mj-column>
+  <mj-column vertical-align='middle' width="90%">
+    <mj-text font-size='20px' line-height='33px' color='#4BC674'>
+      54 trees in my forest
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-group>
+    <mj-column />
+    <mj-column>
+      <mj-image width='24px' padding-bottom='8px' src="https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/icon_powerplant.png" alt="powerplant" />
+      <mj-text font-size='16px' line-height='24px' padding-bottom='2px'>
+        +47.6kg CO2
+      </mj-text>
+      <mj-text font-size='11px' line-height='13px' color='#9A9DA3'>
+        Avg. Daily Generated
+      </mj-text>
+    </mj-column>
+    <mj-column padding='16px 0 0 0' vertical-align='middle'>
+      <mj-image height='48px' width='48px' src="https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/icon_chevron_forward_red.png" alt="red arrow" />
+    </mj-column>
+    <mj-column>
+      <mj-image width='24px' padding-bottom='8px' src="https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/icon_leaf.png" alt="leaf" />
+      <mj-text font-size='16px' line-height='24px' padding-bottom='2px'>
+        +47.6kg CO2
+      </mj-text>
+      <mj-text font-size='11px' line-height='13px' color='#9A9DA3'>
+        Avg. Daily Generated
+      </mj-text>
+    </mj-column>
+    <mj-column />
+  </mj-group>
+</mj-section>
+<mj-section>
+  <mj-column>
+    <mj-button>Grow Your Forest</mj-button>
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column>
+    <mj-divider border-width='1px' border-color='#363C47' />
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column>
+    <mj-image width='78px' height='78px' src="https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/icon_founders.png" alt="founders logo" />
+  </mj-column>
+</mj-section>
+<mj-section>
+  <mj-column>
+    <mj-text font-size='24px' line-height='32px'> Join the TezLab Founders Series </mj-text>
+    <mj-text font-size='16px' line-height='24px' padding='24px'> Together we can reach our goal of planting a million trees. Help us push sustainability forward. </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section padding='0'>
+  <mj-group>
+    <mj-column />
+    <mj-column>
+      <mj-image width='32px' height='32px' src="https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/icon_founder_outline.png" alt="founder leaf" />
+    </mj-column>
+    <mj-column>
+      <mj-image width='32px' height='32px' src="https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/icon_shoutout.png" alt="shoutout" />
+    </mj-column>
+    <mj-column>
+      <mj-image width='32px' height='32px' src="https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/icon_trees_sm.png" alt="trees" />
+    </mj-column>
+    <mj-column>
+      <mj-image width='32px' height='32px' src="https://tezlab-static.nyc3.cdn.digitaloceanspaces.com/email-images/icon_pro_outline.png" alt="Tezlab Pro icon" />
+    </mj-column>
+    <mj-column />
+  </mj-group>
+</mj-section>
+<mj-section>
+  <mj-column>
+    <mj-button>More Info</mj-button>
+  </mj-column>
+</mj-section>
